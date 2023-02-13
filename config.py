@@ -1,0 +1,2 @@
+VIDEO_DIR = ''
+FRAMES_DIR = ''
